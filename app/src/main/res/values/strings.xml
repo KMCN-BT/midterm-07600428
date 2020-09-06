@@ -1,3 +1,11 @@
 <resources>
     <string name="app_name">SPEED CALCULATOR</string>
+    <string name="clear">CLEAR</string>
+    <string name="calaulate">CALAULATE</string>
+    <string name="avenrage_speed_km_h">Avenrage Speed (km/h)</string>
+    <string name="msgDialog">Speed over limit!</string>
+    <string name="toastZero">Time must be greater than zero</string>
+    <string name="toastNull">Distance and time are required</string>
+    <string name="enter_distance_meter">Enter distance (meter)</string>
+    <string name="enter_time_second">Enter time (second)</string>
 </resources>
